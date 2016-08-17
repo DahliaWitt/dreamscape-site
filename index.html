@@ -1,0 +1,42 @@
+<html>
+
+<head>
+    <title>Dreamscape Records</title>
+    <style type="text/css">
+        body {
+            background: #250f20;
+        }
+
+        .bg {
+            position: absolute;
+            top: 0;
+            height: 100%;
+            width: 100%;
+        }
+
+        .img {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="img">
+        <img src="logo.png">
+    </div>
+    <div id="particles-js" class="bg"></div>
+    <audio src="wings.mp3" autoplay></audio>
+    <script src="particles.js"></script>
+    <script type="text/javascript">
+        /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+        particlesJS.load('particles-js', 'particlesjs-config.json', function() {
+            console.log('callback - particles.js config loaded');
+        });
+    </script>
+</body>
+
+</html>

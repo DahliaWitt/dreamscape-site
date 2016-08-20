@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Dreamscape Records</title>
-		<description>Dank Memes</description>
+		<description>Dreamscape Records is an independent record label founded with the focus of exploring the vast diversity that is electronic music and searching for music makers that have potential.</description>
 		<link></link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Dreamscape Records</title>
+		<description>Dank Memes</description>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Behind the Scenes &amp;#58; The New Dreamscape Website</title>
+				
+				
+					<description>&lt;p&gt;Here at Dreamscape, we believe technology plays a critical role in how we connect artists and fans, so we are proud to present to you, the new Dreamscape Website.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
+				<link>/tech/2015/08/20/bts-technical.html</link>
+				<guid isPermaLink="true">/tech/2015/08/20/bts-technical.html</guid>
+			</item>
+		
+	</channel>
+</rss>
